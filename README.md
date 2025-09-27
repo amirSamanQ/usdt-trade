@@ -9,7 +9,7 @@ The project is divided into three main parts:
 3. **Unified Exchange Module** – Clean wrapper for the APIs with only required functions.  
 
 ---
-
+'''
 ## Project Structure
 /backtest
     candle_backtest.ipynb
@@ -18,7 +18,7 @@ The project is divided into three main parts:
 /exchanges.py
 /usdt_trade.py
 /config.json.example
-
+'''
 ---
 
 ## Backtests
