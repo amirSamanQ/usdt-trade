@@ -11,7 +11,7 @@ The project is divided into three main parts:
 ---
 
 ## Project Structure
-'''
+```
 /backtest
     candle_backtest.ipynb
     tick_backtest.ipynb
@@ -19,7 +19,7 @@ The project is divided into three main parts:
 /exchanges.py
 /usdt_trade.py
 /config.json.example
-'''
+```
 ---
 
 ## Backtests
