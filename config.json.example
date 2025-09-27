@@ -1,0 +1,25 @@
+{
+  "USDT_TRADE": {
+    "WALLEX_API_KEY": "YOUR_WALLEX_API_KEY_HERE",
+    "NOBITEX_API_KEY": "YOUR_NOBITEX_API_KEY_HERE",
+
+    "PAIR_WLX": "USDTTMN",
+    "PAIR_NBX": "USDTIRT",
+    "K": 2.0,
+    "ROLLING": true,
+    "ROLL_N": 20,
+    "Z_MIN_SPACING_S": 20,
+    "STATIC_LOWER": -100.0,
+    "STATIC_UPPER": 100.0,
+    "ORDER_QTY_USDT": 100,
+    "SLEEP_LOOP": 5,
+    "TRACK_POLL": 2,
+    "TRADES_PKL": "trades.pkl",
+    "TICKS_DIR": "ticks",
+    "BASE_NAME": "ticks",
+    "MAX_FILE_SIZE_MB": 5,
+    "TMN_LOWER": 50000,
+    "USDT_LOWER": 10,
+    "BALANCE_PATH": null
+  }
+}
